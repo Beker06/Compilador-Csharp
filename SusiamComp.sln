@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SusiamComp", "SusiamComp\SusiamComp.csproj", "{31C45E3A-E60D-428D-9E6F-92E901CB0F70}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SusiamComp", "SusiamComp\SusiamComp.csproj", "{31C45E3A-E60D-428D-9E6F-92E901CB0F70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManejoDeErrores", "ManejoDeErrores\ManejoDeErrores.csproj", "{FB956F93-11BA-42D2-8CEB-4375001C8B2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tsimbolos", "Tsimbolos\Tsimbolos.csproj", "{6AFFF902-C502-42E9-A23E-8C4B4B97F976}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{31C45E3A-E60D-428D-9E6F-92E901CB0F70}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31C45E3A-E60D-428D-9E6F-92E901CB0F70}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31C45E3A-E60D-428D-9E6F-92E901CB0F70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB956F93-11BA-42D2-8CEB-4375001C8B2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB956F93-11BA-42D2-8CEB-4375001C8B2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB956F93-11BA-42D2-8CEB-4375001C8B2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB956F93-11BA-42D2-8CEB-4375001C8B2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AFFF902-C502-42E9-A23E-8C4B4B97F976}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AFFF902-C502-42E9-A23E-8C4B4B97F976}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AFFF902-C502-42E9-A23E-8C4B4B97F976}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AFFF902-C502-42E9-A23E-8C4B4B97F976}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
