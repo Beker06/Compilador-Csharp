@@ -12,72 +12,27 @@ namespace SusiamComp
 {
     public partial class ini : Form
     {
-        int total = 0;
-
         public ini()
         {
             InitializeComponent();
+            tm1.Start();
         }
 
-        private void ini_Load(object sender, EventArgs e)
+        private void panel1_Paint(object sender, PaintEventArgs e)
         {
-            progressBar1.Maximum = 100;
-            progressBar1.Minimum = 0;
-            progressBar1.Value = 0;
-            progressBar1.Step = 5;
 
-            timer1.Start();
         }
 
-        private void timer1_Tick(object sender, EventArgs e)
+        private void tm1_Tick(object sender, EventArgs e)
         {
-            int i = progressBar1.Minimum;
+            panel2.Width = panel2.Width + 3;
 
-            total = total + 1;
-            if (total == 2 && i < progressBar1.Maximum)
+            if (panel2.Width >= 630)
             {
-                progressBar1.PerformStep();
-                progressBar1.PerformStep();
-                progressBar1.PerformStep();
-                progressBar1.PerformStep();
-                label1.Text = "Cargando complementos.";
-            }
-
-            if (total == 3 && i < progressBar1.Maximum)
-            {
-                progressBar1.PerformStep();
-                progressBar1.PerformStep();
-                progressBar1.PerformStep();
-                progressBar1.PerformStep();
-                label1.Text = "Cargando complementos..";
-            }
-
-            if (total == 4 && i < progressBar1.Maximum)
-            {
-                progressBar1.PerformStep();
-                progressBar1.PerformStep();
-                progressBar1.PerformStep();
-                progressBar1.PerformStep();
-                label1.Text = "Cargando complementos...";
-            }
-
-            if (total == 5 && i < progressBar1.Maximum)
-            {
-                label1.Text = "Sistema cargado";
-
-                for (int isf = i; isf < progressBar1.Maximum; isf = isf + progressBar1.Step)
-                {
-                    progressBar1.PerformStep();
-                    label1.Text = "Sistema cargado";
-                }
-            }
-
-            if (total == 6)
-            {
+                tm1.Stop();
                 ide id = new ide();
-                this.Hide();
-
                 id.Show();
+                this.Hide();
             }
         }
     }

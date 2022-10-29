@@ -1,0 +1,17 @@
+D:\Eliam\Escuela\7mo Semestre\Lenguajes y Automatas II\SusiamComp\SusiamComp\bin\Debug\SusiamComp.exe.config
+D:\Eliam\Escuela\7mo Semestre\Lenguajes y Automatas II\SusiamComp\SusiamComp\bin\Debug\SusiamComp.exe
+D:\Eliam\Escuela\7mo Semestre\Lenguajes y Automatas II\SusiamComp\SusiamComp\bin\Debug\SusiamComp.pdb
+D:\Eliam\Escuela\7mo Semestre\Lenguajes y Automatas II\SusiamComp\SusiamComp\obj\Debug\SusiamComp.csproj.AssemblyReference.cache
+D:\Eliam\Escuela\7mo Semestre\Lenguajes y Automatas II\SusiamComp\SusiamComp\obj\Debug\SusiamComp.csproj.SuggestedBindingRedirects.cache
+D:\Eliam\Escuela\7mo Semestre\Lenguajes y Automatas II\SusiamComp\SusiamComp\obj\Debug\SusiamComp.ide.resources
+D:\Eliam\Escuela\7mo Semestre\Lenguajes y Automatas II\SusiamComp\SusiamComp\obj\Debug\SusiamComp.Properties.Resources.resources
+D:\Eliam\Escuela\7mo Semestre\Lenguajes y Automatas II\SusiamComp\SusiamComp\obj\Debug\SusiamComp.csproj.GenerateResource.cache
+D:\Eliam\Escuela\7mo Semestre\Lenguajes y Automatas II\SusiamComp\SusiamComp\obj\Debug\SusiamComp.csproj.CoreCompileInputs.cache
+D:\Eliam\Escuela\7mo Semestre\Lenguajes y Automatas II\SusiamComp\SusiamComp\obj\Debug\SusiamComp.exe
+D:\Eliam\Escuela\7mo Semestre\Lenguajes y Automatas II\SusiamComp\SusiamComp\obj\Debug\SusiamComp.pdb
+D:\Eliam\Escuela\7mo Semestre\Lenguajes y Automatas II\SusiamComp\SusiamComp\obj\Debug\SusiamComp.ini.resources
+D:\Eliam\Escuela\7mo Semestre\Lenguajes y Automatas II\SusiamComp\SusiamComp\bin\Debug\ManejoDeErrores.dll
+D:\Eliam\Escuela\7mo Semestre\Lenguajes y Automatas II\SusiamComp\SusiamComp\bin\Debug\Tsimbolos.dll
+D:\Eliam\Escuela\7mo Semestre\Lenguajes y Automatas II\SusiamComp\SusiamComp\bin\Debug\ManejoDeErrores.pdb
+D:\Eliam\Escuela\7mo Semestre\Lenguajes y Automatas II\SusiamComp\SusiamComp\bin\Debug\Tsimbolos.pdb
+D:\Eliam\Escuela\7mo Semestre\Lenguajes y Automatas II\SusiamComp\SusiamComp\obj\Debug\SusiamComp.csproj.CopyComplete

@@ -1,0 +1,9 @@
+D:\Eliam\Escuela\7mo Semestre\Lenguajes y Automatas II\SusiamComp\Tsimbolos\bin\Debug\Tsimbolos.dll
+D:\Eliam\Escuela\7mo Semestre\Lenguajes y Automatas II\SusiamComp\Tsimbolos\bin\Debug\Tsimbolos.pdb
+D:\Eliam\Escuela\7mo Semestre\Lenguajes y Automatas II\SusiamComp\Tsimbolos\bin\Debug\ManejoDeErrores.dll
+D:\Eliam\Escuela\7mo Semestre\Lenguajes y Automatas II\SusiamComp\Tsimbolos\bin\Debug\ManejoDeErrores.pdb
+D:\Eliam\Escuela\7mo Semestre\Lenguajes y Automatas II\SusiamComp\Tsimbolos\obj\Debug\Tsimbolos.csproj.AssemblyReference.cache
+D:\Eliam\Escuela\7mo Semestre\Lenguajes y Automatas II\SusiamComp\Tsimbolos\obj\Debug\Tsimbolos.csproj.CoreCompileInputs.cache
+D:\Eliam\Escuela\7mo Semestre\Lenguajes y Automatas II\SusiamComp\Tsimbolos\obj\Debug\Tsimbolos.csproj.CopyComplete
+D:\Eliam\Escuela\7mo Semestre\Lenguajes y Automatas II\SusiamComp\Tsimbolos\obj\Debug\Tsimbolos.dll
+D:\Eliam\Escuela\7mo Semestre\Lenguajes y Automatas II\SusiamComp\Tsimbolos\obj\Debug\Tsimbolos.pdb

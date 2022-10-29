@@ -1,0 +1,6 @@
+D:\Eliam\Escuela\7mo Semestre\Lenguajes y Automatas II\SusiamComp\ManejoDeErrores\bin\Debug\ManejoDeErrores.dll
+D:\Eliam\Escuela\7mo Semestre\Lenguajes y Automatas II\SusiamComp\ManejoDeErrores\bin\Debug\ManejoDeErrores.pdb
+D:\Eliam\Escuela\7mo Semestre\Lenguajes y Automatas II\SusiamComp\ManejoDeErrores\obj\Debug\ManejoDeErrores.csproj.AssemblyReference.cache
+D:\Eliam\Escuela\7mo Semestre\Lenguajes y Automatas II\SusiamComp\ManejoDeErrores\obj\Debug\ManejoDeErrores.csproj.CoreCompileInputs.cache
+D:\Eliam\Escuela\7mo Semestre\Lenguajes y Automatas II\SusiamComp\ManejoDeErrores\obj\Debug\ManejoDeErrores.dll
+D:\Eliam\Escuela\7mo Semestre\Lenguajes y Automatas II\SusiamComp\ManejoDeErrores\obj\Debug\ManejoDeErrores.pdb
